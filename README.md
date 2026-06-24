@@ -79,6 +79,6 @@ Hosting: Render
 
 Test Account
 
-Username: `testuser`
-Email: `test@test.com`
-Password: `test123`
+Username: `Professor`
+Email: `Professor@qc.com`
+Password: `CS355`
