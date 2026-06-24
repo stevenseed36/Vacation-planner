@@ -1,0 +1,20 @@
+{
+  "name": "vacation-planner",
+  "version": "1.0.0",
+  "description": "AI Vacation Planner using Google Gemini and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Steven Seedharie",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongodb": "^7.3.0"
+  }
+}
